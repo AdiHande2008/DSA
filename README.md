@@ -47,4 +47,12 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AdiHande2008/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/AdiHande2008/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/AdiHande2008/DSA/tree/main/1929-concatenation-of-array/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/AdiHande2008/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
