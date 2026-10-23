@@ -32,6 +32,7 @@
 | [0155-min-stack](https://github.com/AdiHande2008/DSA/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/AdiHande2008/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/AdiHande2008/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/AdiHande2008/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,9 +51,14 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/AdiHande2008/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1929-concatenation-of-array](https://github.com/AdiHande2008/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/AdiHande2008/DSA/tree/main/1929-concatenation-of-array/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/AdiHande2008/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
