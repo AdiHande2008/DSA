@@ -35,6 +35,7 @@
 | [0225-implement-stack-using-queues](https://github.com/AdiHande2008/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/AdiHande2008/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/AdiHande2008/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/AdiHande2008/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdiHande2008/DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -55,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/AdiHande2008/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/AdiHande2008/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdiHande2008/DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AdiHande2008/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
@@ -65,9 +67,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/AdiHande2008/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/AdiHande2008/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdiHande2008/DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0556-next-greater-element-iii](https://github.com/AdiHande2008/DSA/tree/main/0556-next-greater-element-iii/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0907-sum-of-subarray-minimums](https://github.com/AdiHande2008/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 <!---LeetCode Topics End-->
