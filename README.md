@@ -9,6 +9,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/AdiHande2008/DSA/tree/main/0148-sort-list/) | Medium |
+| [0556-next-greater-element-iii](https://github.com/AdiHande2008/DSA/tree/main/0556-next-greater-element-iii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AdiHande2008/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0556-next-greater-element-iii](https://github.com/AdiHande2008/DSA/tree/main/0556-next-greater-element-iii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +66,8 @@
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/AdiHande2008/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdiHande2008/DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0556-next-greater-element-iii](https://github.com/AdiHande2008/DSA/tree/main/0556-next-greater-element-iii/) | Medium |
 <!---LeetCode Topics End-->
