@@ -26,12 +26,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AdiHande2008/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/AdiHande2008/DSA/tree/main/0071-simplify-path/) | Medium |
 | [0402-remove-k-digits](https://github.com/AdiHande2008/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/AdiHande2008/DSA/tree/main/0556-next-greater-element-iii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AdiHande2008/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/AdiHande2008/DSA/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/AdiHande2008/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/AdiHande2008/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdiHande2008/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
