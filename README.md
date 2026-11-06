@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/AdiHande2008/DSA/tree/main/0148-sort-list/) | Medium |
+| [0355-design-twitter](https://github.com/AdiHande2008/DSA/tree/main/0355-design-twitter/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@
 | [0155-min-stack](https://github.com/AdiHande2008/DSA/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/AdiHande2008/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/AdiHande2008/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0355-design-twitter](https://github.com/AdiHande2008/DSA/tree/main/0355-design-twitter/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,4 +167,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/AdiHande2008/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0355-design-twitter](https://github.com/AdiHande2008/DSA/tree/main/0355-design-twitter/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0355-design-twitter](https://github.com/AdiHande2008/DSA/tree/main/0355-design-twitter/) | Medium |
 <!---LeetCode Topics End-->
