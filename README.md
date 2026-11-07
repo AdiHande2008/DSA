@@ -26,6 +26,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/AdiHande2008/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/AdiHande2008/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/AdiHande2008/DSA/tree/main/0071-simplify-path/) | Medium |
 | [0402-remove-k-digits](https://github.com/AdiHande2008/DSA/tree/main/0402-remove-k-digits/) | Medium |
@@ -92,6 +93,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/AdiHande2008/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/AdiHande2008/DSA/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0556-next-greater-element-iii](https://github.com/AdiHande2008/DSA/tree/main/0556-next-greater-element-iii/) | Medium |
 ## Dynamic Programming
@@ -172,6 +174,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/AdiHande2008/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/AdiHande2008/DSA/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0355-design-twitter](https://github.com/AdiHande2008/DSA/tree/main/0355-design-twitter/) | Medium |
 ## Heap (Priority Queue)
