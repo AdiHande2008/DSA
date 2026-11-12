@@ -72,6 +72,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AdiHande2008/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AdiHande2008/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/AdiHande2008/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0149-max-points-on-a-line](https://github.com/AdiHande2008/DSA/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0274-h-index](https://github.com/AdiHande2008/DSA/tree/main/0274-h-index/) | Medium |
@@ -172,6 +173,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AdiHande2008/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AdiHande2008/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/AdiHande2008/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AdiHande2008/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## DP on Trees
