@@ -15,6 +15,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/AdiHande2008/DSA/tree/main/0148-sort-list/) | Medium |
+| [0191-number-of-1-bits](https://github.com/AdiHande2008/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,4 +210,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/AdiHande2008/DSA/tree/main/0274-h-index/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/AdiHande2008/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
