@@ -216,6 +216,7 @@
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/AdiHande2008/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/AdiHande2008/DSA/tree/main/0231-power-of-two/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/AdiHande2008/DSA/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
