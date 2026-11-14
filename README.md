@@ -104,6 +104,7 @@
 | [0012-integer-to-roman](https://github.com/AdiHande2008/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/AdiHande2008/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/AdiHande2008/DSA/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0231-power-of-two](https://github.com/AdiHande2008/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/AdiHande2008/DSA/tree/main/0556-next-greater-element-iii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -214,4 +215,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/AdiHande2008/DSA/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/AdiHande2008/DSA/tree/main/0231-power-of-two/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/AdiHande2008/DSA/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
