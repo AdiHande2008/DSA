@@ -84,6 +84,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdiHande2008/DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AdiHande2008/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/AdiHande2008/DSA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/AdiHande2008/DSA/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +219,7 @@
 | [0231-power-of-two](https://github.com/AdiHande2008/DSA/tree/main/0231-power-of-two/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/AdiHande2008/DSA/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AdiHande2008/DSA/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/AdiHande2008/DSA/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
