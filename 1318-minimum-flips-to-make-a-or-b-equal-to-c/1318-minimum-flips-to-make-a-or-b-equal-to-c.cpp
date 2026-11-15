@@ -1,17 +1,28 @@
 class Solution {
 public:
-    int minFlips(int x, int y, int z) {
-        int count = 0;
-        while (x != 0 || y != 0 || z != 0) {
-            if ((z & 1) == 1) {
-                if ((x & 1) == 0 && (y & 1) == 0)
-                    count++;
-            } else
-                count += (x & 1) + (y & 1);
-            x = x >> 1;
-            y = y >> 1;
-            z = z >> 1;
+    int minFlips(int a, int b, int c) {
+        int result = 0;
+
+        while (a != 0 || b != 0 || c != 0) {
+            if ((c & 1) == 1) {
+                if ((a & 1) == 0 && (b & 1) == 0) {
+                    result++;
+                }
+            } else {
+                if ((a & 1) == 1) {
+                    result++;
+                }
+
+                if ((b & 1) == 1) {
+                    result++;
+                }
+            }
+
+            a >>= 1;
+            b >>= 1;
+            c >>= 1;
         }
-        return count;
+
+        return result;
     }
 };
