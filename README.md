@@ -73,6 +73,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AdiHande2008/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0078-subsets](https://github.com/AdiHande2008/DSA/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AdiHande2008/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/AdiHande2008/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0149-max-points-on-a-line](https://github.com/AdiHande2008/DSA/tree/main/0149-max-points-on-a-line/) | Hard |
@@ -215,6 +216,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/AdiHande2008/DSA/tree/main/0078-subsets/) | Medium |
 | [0191-number-of-1-bits](https://github.com/AdiHande2008/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/AdiHande2008/DSA/tree/main/0231-power-of-two/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/AdiHande2008/DSA/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
@@ -224,4 +226,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/AdiHande2008/DSA/tree/main/0231-power-of-two/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/AdiHande2008/DSA/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
