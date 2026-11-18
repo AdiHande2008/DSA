@@ -90,6 +90,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/AdiHande2008/DSA/tree/main/0258-add-digits/) | Easy |
 | [0735-asteroid-collision](https://github.com/AdiHande2008/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [1929-concatenation-of-array](https://github.com/AdiHande2008/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 ## Monotonic Stack
@@ -108,6 +109,7 @@
 | [0013-roman-to-integer](https://github.com/AdiHande2008/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/AdiHande2008/DSA/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0231-power-of-two](https://github.com/AdiHande2008/DSA/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/AdiHande2008/DSA/tree/main/0258-add-digits/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/AdiHande2008/DSA/tree/main/0556-next-greater-element-iii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -232,4 +234,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/AdiHande2008/DSA/tree/main/0078-subsets/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/AdiHande2008/DSA/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
