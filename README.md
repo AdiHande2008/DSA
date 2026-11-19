@@ -32,6 +32,7 @@
 | [0012-integer-to-roman](https://github.com/AdiHande2008/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/AdiHande2008/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/AdiHande2008/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0067-add-binary](https://github.com/AdiHande2008/DSA/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/AdiHande2008/DSA/tree/main/0071-simplify-path/) | Medium |
 | [0402-remove-k-digits](https://github.com/AdiHande2008/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/AdiHande2008/DSA/tree/main/0556-next-greater-element-iii/) | Medium |
@@ -90,6 +91,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/AdiHande2008/DSA/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/AdiHande2008/DSA/tree/main/0258-add-digits/) | Easy |
 | [0735-asteroid-collision](https://github.com/AdiHande2008/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [1929-concatenation-of-array](https://github.com/AdiHande2008/DSA/tree/main/1929-concatenation-of-array/) | Easy |
@@ -107,6 +109,7 @@
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/AdiHande2008/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/AdiHande2008/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0067-add-binary](https://github.com/AdiHande2008/DSA/tree/main/0067-add-binary/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/AdiHande2008/DSA/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0231-power-of-two](https://github.com/AdiHande2008/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/AdiHande2008/DSA/tree/main/0258-add-digits/) | Easy |
@@ -219,6 +222,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/AdiHande2008/DSA/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/AdiHande2008/DSA/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/AdiHande2008/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/AdiHande2008/DSA/tree/main/0191-number-of-1-bits/) | Easy |
