@@ -85,6 +85,7 @@
 | [0503-next-greater-element-ii](https://github.com/AdiHande2008/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/AdiHande2008/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/AdiHande2008/DSA/tree/main/0735-asteroid-collision/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/AdiHande2008/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/AdiHande2008/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdiHande2008/DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AdiHande2008/DSA/tree/main/1929-concatenation-of-array/) | Easy |
@@ -202,6 +203,7 @@
 | [0013-roman-to-integer](https://github.com/AdiHande2008/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/AdiHande2008/DSA/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0355-design-twitter](https://github.com/AdiHande2008/DSA/tree/main/0355-design-twitter/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/AdiHande2008/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,6 +252,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AdiHande2008/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/AdiHande2008/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/AdiHande2008/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
