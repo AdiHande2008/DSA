@@ -82,6 +82,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdiHande2008/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0274-h-index](https://github.com/AdiHande2008/DSA/tree/main/0274-h-index/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/AdiHande2008/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/AdiHande2008/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/AdiHande2008/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/AdiHande2008/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdiHande2008/DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -242,4 +243,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/AdiHande2008/DSA/tree/main/0258-add-digits/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/AdiHande2008/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
