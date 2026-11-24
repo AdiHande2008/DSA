@@ -87,6 +87,7 @@
 | [0735-asteroid-collision](https://github.com/AdiHande2008/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/AdiHande2008/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/AdiHande2008/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AdiHande2008/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdiHande2008/DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AdiHande2008/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/AdiHande2008/DSA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -253,8 +254,10 @@
 | [0209-minimum-size-subarray-sum](https://github.com/AdiHande2008/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/AdiHande2008/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/AdiHande2008/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AdiHande2008/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AdiHande2008/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AdiHande2008/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
