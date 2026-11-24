@@ -35,6 +35,7 @@
 | [0067-add-binary](https://github.com/AdiHande2008/DSA/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/AdiHande2008/DSA/tree/main/0071-simplify-path/) | Medium |
 | [0402-remove-k-digits](https://github.com/AdiHande2008/DSA/tree/main/0402-remove-k-digits/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/AdiHande2008/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/AdiHande2008/DSA/tree/main/0556-next-greater-element-iii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -204,6 +205,7 @@
 | [0013-roman-to-integer](https://github.com/AdiHande2008/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/AdiHande2008/DSA/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0355-design-twitter](https://github.com/AdiHande2008/DSA/tree/main/0355-design-twitter/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/AdiHande2008/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/AdiHande2008/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -252,6 +254,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AdiHande2008/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/AdiHande2008/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/AdiHande2008/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/AdiHande2008/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AdiHande2008/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
