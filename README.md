@@ -89,6 +89,7 @@
 | [0904-fruit-into-baskets](https://github.com/AdiHande2008/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/AdiHande2008/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/AdiHande2008/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/AdiHande2008/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AdiHande2008/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdiHande2008/DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AdiHande2008/DSA/tree/main/1929-concatenation-of-array/) | Easy |
@@ -120,6 +121,7 @@
 | [0231-power-of-two](https://github.com/AdiHande2008/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/AdiHande2008/DSA/tree/main/0258-add-digits/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/AdiHande2008/DSA/tree/main/0556-next-greater-element-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/AdiHande2008/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +211,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/AdiHande2008/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/AdiHande2008/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/AdiHande2008/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/AdiHande2008/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,11 +263,13 @@
 | [0643-maximum-average-subarray-i](https://github.com/AdiHande2008/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/AdiHande2008/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/AdiHande2008/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/AdiHande2008/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AdiHande2008/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AdiHande2008/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/AdiHande2008/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/AdiHande2008/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AdiHande2008/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
