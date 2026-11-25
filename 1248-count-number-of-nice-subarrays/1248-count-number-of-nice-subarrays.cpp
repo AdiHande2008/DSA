@@ -1,26 +1,24 @@
 class Solution {
 public:
-    bool isodd(int x) {
-        if (x % 2 == 0)
-            return false;
-        return true;
+    long long atmostSum(vector<int>& arr, int k){
+        if(k<0) return 0;
+          int sum=0,i=0;
+          long long ans=0;
+          for(int j=0;j<arr.size();j++){
+              sum+=arr[j];
+              while(sum>k){
+                  sum-=arr[i];
+                  i++;
+              }
+              ans+=(j-i+1);
+              
+          }
+        return ans;
     }
     int numberOfSubarrays(vector<int>& arr, int k) {
-        long long ans = 0;
-        int oddcount = 0, i = 0, validStarts = 0;
-        for (int j = 0; j < arr.size(); j++) {
-            if (isodd(arr[j])) {
-                oddcount++;
-                validStarts = 0;
-            }
-            while (oddcount == k) {
-                validStarts++;
-                if (isodd(arr[i]))
-                    oddcount--;
-                i++;
-            }
-            ans += validStarts;
+        for (int i = 0; i < arr.size(); i++) {
+            arr[i] = arr[i] % 2;
         }
-        return ans;
+        return atmostSum(arr, k) - atmostSum(arr, k - 1);
     }
 };
