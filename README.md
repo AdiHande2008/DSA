@@ -118,6 +118,7 @@
 | [0012-integer-to-roman](https://github.com/AdiHande2008/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/AdiHande2008/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/AdiHande2008/DSA/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/AdiHande2008/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/AdiHande2008/DSA/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0231-power-of-two](https://github.com/AdiHande2008/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/AdiHande2008/DSA/tree/main/0258-add-digits/) | Easy |
@@ -194,6 +195,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AdiHande2008/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/AdiHande2008/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AdiHande2008/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdiHande2008/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/AdiHande2008/DSA/tree/main/0162-find-peak-element/) | Medium |
@@ -276,4 +278,8 @@
 | [0930-binary-subarrays-with-sum](https://github.com/AdiHande2008/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/AdiHande2008/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AdiHande2008/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/AdiHande2008/DSA/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
