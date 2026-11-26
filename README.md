@@ -121,6 +121,7 @@
 | [0149-max-points-on-a-line](https://github.com/AdiHande2008/DSA/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0231-power-of-two](https://github.com/AdiHande2008/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/AdiHande2008/DSA/tree/main/0258-add-digits/) | Easy |
+| [0367-valid-perfect-square](https://github.com/AdiHande2008/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/AdiHande2008/DSA/tree/main/0556-next-greater-element-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/AdiHande2008/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Dynamic Programming
@@ -197,6 +198,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdiHande2008/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/AdiHande2008/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/AdiHande2008/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0367-valid-perfect-square](https://github.com/AdiHande2008/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/AdiHande2008/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AdiHande2008/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## DP on Trees
