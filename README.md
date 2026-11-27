@@ -92,6 +92,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/AdiHande2008/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/AdiHande2008/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/AdiHande2008/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AdiHande2008/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AdiHande2008/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdiHande2008/DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AdiHande2008/DSA/tree/main/1929-concatenation-of-array/) | Easy |
@@ -205,6 +206,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/AdiHande2008/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AdiHande2008/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/AdiHande2008/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AdiHande2008/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
