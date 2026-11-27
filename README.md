@@ -95,6 +95,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AdiHande2008/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AdiHande2008/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdiHande2008/DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdiHande2008/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1929-concatenation-of-array](https://github.com/AdiHande2008/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/AdiHande2008/DSA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/AdiHande2008/DSA/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
@@ -207,6 +208,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/AdiHande2008/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/AdiHande2008/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AdiHande2008/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdiHande2008/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
