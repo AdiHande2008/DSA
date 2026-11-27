@@ -87,6 +87,7 @@
 | [0503-next-greater-element-ii](https://github.com/AdiHande2008/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/AdiHande2008/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/AdiHande2008/DSA/tree/main/0735-asteroid-collision/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/AdiHande2008/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/AdiHande2008/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/AdiHande2008/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/AdiHande2008/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -203,6 +204,7 @@
 | [0367-valid-perfect-square](https://github.com/AdiHande2008/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/AdiHande2008/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AdiHande2008/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/AdiHande2008/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
